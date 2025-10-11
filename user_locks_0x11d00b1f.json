@@ -1,0 +1,24 @@
+{
+  "user": "0x11d00b1f0594da0aedc3dab291e619cea33e5cfcd3554738bfc1dd0375b65b56",
+  "fetchedAt": "2025-10-11T20:47:11.686Z",
+  "totalLocks": 1,
+  "totalAmount": 5000000000,
+  "locks": [
+    {
+      "lockId": "127",
+      "period": "3 Months",
+      "amount": "5000000000",
+      "amountFormatted": "5,000.00",
+      "lockPeriodDays": "90",
+      "stakeTimestamp": "1760177399",
+      "stakeDate": "Oct 11, 2025, 03:39 PM",
+      "actualUnlockTimestamp": 1767953399,
+      "actualUnlockDate": "Jan 9, 2026, 03:39 PM",
+      "storedLockEnd": "94348800",
+      "isExpired": false,
+      "totalVictoryClaimed": "0",
+      "lastSuiEpochClaimed": "0",
+      "claimedSuiEpochs": []
+    }
+  ]
+}
