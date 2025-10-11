@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "network": "testnet",
+    "packageId": "0x381ff77a7fc9af27a9ca765bb0fb2a7daa4516621a44182dc01de2eb8a8053c7",
+    "userAddress": "0x11d00b1f0594da0aedc3dab291e619cea33e5cfcd3554738bfc1dd0375b65b56",
+    "fetchedAt": "2025-10-11T16:18:26.654Z"
+  },
+  "summary": {
+    "userCreatedLocks": 0,
+    "adminCreatedLocks": 1,
+    "totalLocks": 1
+  },
+  "userCreatedLocks": [],
+  "adminCreatedLocks": [
+    {
+      "lockId": "127",
+      "amount": "5000000000",
+      "lockPeriod": "90",
+      "lockEnd": "94348800",
+      "user": "0x11d00b1f0594da0aedc3dab291e619cea33e5cfcd3554738bfc1dd0375b65b56",
+      "admin": "0x9b15baa31a2d308bd09f9258f0a9db09da3d4e8e113cf1888efa919d9778fa7c",
+      "txDigest": "BLEJ45sy4MRPc4XqFPFCbKgRnzniaCn2Nc64AW4eSoFq",
+      "timestamp": "1760177399",
+      "createdBy": "admin"
+    }
+  ]
+}
