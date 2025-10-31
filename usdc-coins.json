@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-10-30T14:29:06.999Z",
+  "address": "0xc17889dee9255f80462972cd1218165c3a16e37d5242aa4c2070af4f46cebb01",
+  "coinName": "USDC",
+  "coinType": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+  "decimals": 6,
+  "totalBalance": "9981336",
+  "totalBalanceFormatted": "9.981336",
+  "coinCount": 1,
+  "coins": [
+    {
+      "index": 1,
+      "objectId": "0x1d4081ea8cbb8abf6621890d5a7f6ce7c06d000fba7e11f135ba07a7ac4f6e9b",
+      "balance": "9981336",
+      "balanceFormatted": "9.981336",
+      "digest": "r2Tvc8pWmJ2Go3bmGr2fdgMC92hKKawQfc8oA9u2ho4",
+      "version": "668276126"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-10-30T14:29:06.999Z",
+  "address": "0xc17889dee9255f80462972cd1218165c3a16e37d5242aa4c2070af4f46cebb01",
+  "coinName": "SUI",
+  "coinType": "0x2::sui::SUI",
+  "decimals": 9,
+  "totalBalance": "221308935",
+  "totalBalanceFormatted": "0.221308935",
+  "coinCount": 1,
+  "coins": [
+    {
+      "index": 1,
+      "objectId": "0x5b72f6d90c0bb12c1d6382da00105d136154277593b67bed371fc29de1b50fc6",
+      "balance": "221308935",
+      "balanceFormatted": "0.221308935",
+      "digest": "APeR6HUq8NEtA26tQV6gZhezo2c3KLwNw7P5PNB244cL",
+      "version": "668617160"
+    }
+  ]
+}
